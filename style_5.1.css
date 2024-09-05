@@ -1,0 +1,43 @@
+body{
+    background-image: url(../tasks/bglog.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h2{
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+}
+h3{
+    color: aqua;
+}
+.reg{
+    background-color: rgb(12, 11, 11);
+    border-radius: 2%;
+    opacity: 0.7;
+    height: 500px;
+    
+}
+label{
+       padding-left: 5%;
+       padding-right: 5%;
+       font-size: 20px;
+       color: bisque;
+}
+input[type=submit]{
+    width: 100%;
+    height: 30px;
+    margin-top: 5%;
+    background-color: orange;
+}
+.log{
+    background-color: rgb(12, 11, 11);
+    border: none;
+    border-radius: 2%;
+    opacity: 0.7;
+    height: 500px;
+    
+    
+}
